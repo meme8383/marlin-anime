@@ -1,5 +1,5 @@
 # marlin-anime
-Anime boot screens for Marlin 2.x. Developed for the Ender 3 Pro.
+Anime boot and status screens for Marlin 2.x. Developed for the Ender 3 Pro.
 <p align="center">
 	<img src="assets/catgirl.png"/>
 </p>
